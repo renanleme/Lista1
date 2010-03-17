@@ -2,6 +2,8 @@
 #include <stdio.h>
 
 int ex4() {
+
+	// editando
 	fflush(stdin);
 	int qnt;
 
